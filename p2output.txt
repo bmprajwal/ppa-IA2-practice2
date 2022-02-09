@@ -1,1 +1,21 @@
-
+ gcc -g p2original.c
+ ./a.out
+Enter side 1: 2   
+Enter side 2: 2
+Enter side 3: 2
+The triangle with sides 2, 2, 2 is not scalene.
+ ./a.out
+Enter side 1: 2
+Enter side 2: 3
+Enter side 3: 4
+The triangle with sides 2, 3, 4 is scalene.
+ ./a.out
+Enter side 1: 2
+Enter side 2: 2
+Enter side 3: 3
+The triangle with sides 2, 2, 3 is not scalene.
+ ./a.out
+Enter side 1: 2
+Enter side 2: 3
+Enter side 3: 2
+The triangle with sides 2, 3, 2 is not scalene.
